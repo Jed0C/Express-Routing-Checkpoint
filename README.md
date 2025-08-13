@@ -51,9 +51,9 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 3. Start the server:
 ```bash
    node index.js
-4. Open your browser and go to:
+3. Start the server:
 ```bash
-   http://localhost:5000
+   node index.js
 
 
 
