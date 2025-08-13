@@ -53,7 +53,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
    node index.js
 
 4. Open your browser and go to:
-```bash
+
    http://localhost:5000
 
 
