@@ -49,11 +49,11 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
    npm install
 
 3. Start the server:
-```bash
+   ```bash
    node index.js
-3. Start the server:
+4. Open your browser and go to:
 ```bash
-   node index.js
+   http://localhost:3000
 
 
 
