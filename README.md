@@ -43,3 +43,17 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
    ```bash
    git clone https://github.com/yourusername/yourproject.git
    cd yourproject
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Start the server:
+```bash
+   node index.js
+
+4. Open your browser and go to:
+```bash
+   http://localhost:5000
+
+
